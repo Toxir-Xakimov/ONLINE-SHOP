@@ -1,0 +1,173 @@
+@media (max-width:375) {
+    
+}
+.container{
+    width: 375px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.10px;
+    background-color: darkolivegreen;
+}
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+.shop{
+    font-size: 20px;
+    color: rgb(115, 189, 4);
+    position: absolute;
+    margin-top: 15px;
+}
+.list{
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.li{
+    list-style: none;
+}
+.ul{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    margin-left: 50px;
+}
+.box{
+    display: flex;
+    align-items: center;
+}
+:hover.list{
+    color: brown;
+    transition: 1s;
+}
+.header{
+    background-color: yellow;
+    width: 375px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.card{
+    width: 100px;
+    height: 63px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(85, 85, 85);
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.appl{
+    width: 30px;
+    margin-left: 30px;
+    margin-top: 14px;
+}
+.apple{
+    margin-top: -10px;
+    margin-left: 30px;
+}
+:hover.apple{
+    font-size: 18px;
+    transition: 1s;
+}
+.Mi{
+    margin-top: -5px;
+    margin-left: 40px;
+}
+.Samsung{
+    margin-top: 10px;
+    margin-left: 25px;
+}
+.appl2{
+    margin-left: 15px;
+    width: 70px;
+    margin-top: 10px;
+}
+.Samsung:hover{
+    font-size: 18px;
+    transition: 1s;
+}
+.Mi:hover{
+    font-size: 18px;
+    transition: 1s;
+}
+.box2{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+.input{
+    width: 200px;
+    height: 20px;
+    outline: none;
+    border: none;
+    border: 2px solid yellowgreen;
+}
+.input2{
+    width: 200px;
+    height: 20px;
+    outline: none;
+    border: none;
+    margin-top: 5px;
+    border: 2px solid yellowgreen;
+}
+.input3{
+    width: 200px;
+    height: 20px;
+    outline: none;
+    border: none;
+    margin-top: 5px;
+    border: 2px solid yellowgreen;
+}
+.input4{
+    width: 200px;
+    height: 20px;
+    outline: none;
+    border: none;
+    margin-top: 5px;
+    border: 2px solid yellowgreen;
+}
+.inputs{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.btn{
+    padding: 1px 82px;
+    position: absolute;
+    text-decoration: none;
+    margin-top: 10px;
+    background-color: darkolivegreen;
+    border: 1px solid yellow;
+    margin-left: 50px;
+}
+:hover.btn{
+    background-color: black;
+}
+span{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 18px;
+    color: black;
+}
+span:hover{
+    color: white;
+}
+.box3{
+  display: flex;
+  align-items: center;
+  background-color: yellow;
+  width: 375px;
+  height: 50px;
+  margin-top: 50px;
+}
+.ul2{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -10px;
+}
+.shop2{
+    font-size: 20px;
+    color: rgb(115, 189, 4);
+    position: absolute;
+    margin-top: -10px;
+}

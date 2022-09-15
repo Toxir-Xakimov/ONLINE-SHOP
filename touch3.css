@@ -1,0 +1,197 @@
+@media (max-width:375) {
+    
+}
+.container{
+    width: 375px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0.10px;
+    background-color: darkolivegreen;
+}
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+.shop{
+    font-size: 20px;
+    color: rgb(115, 189, 4);
+    position: absolute;
+    margin-top: 15px;
+}
+.list{
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.li{
+    list-style: none;
+}
+.ul{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    margin-left: 50px;
+}
+.box{
+    display: flex;
+    align-items: center;
+}
+:hover.list{
+    color: brown;
+    transition: 1s;
+}
+.header{
+    background-color: yellow;
+    width: 375px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.card2{
+    width: 100px;
+    height: 63px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(85, 85, 85);
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.appl{
+    width: 30px;
+    margin-left: 30px;
+    margin-top: 14px;
+}
+.apple{
+    margin-top: -10px;
+    margin-left: 30px;
+}
+:hover.apple{
+    font-size: 18px;
+    transition: 1s;
+}
+.Mi{
+    margin-top: -5px;
+    margin-left: 40px;
+}
+.Samsung{
+    margin-top: 10px;
+    margin-left: 25px;
+}
+.appl2{
+    margin-left: 15px;
+    width: 70px;
+    margin-top: 10px;
+}
+.Samsung:hover{
+    font-size: 18px;
+    transition: 1s;
+}
+.Mi:hover{
+    font-size: 18px;
+    transition: 1s;
+}
+.box2{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+.phone{
+    font-size: 20px;
+    margin-top: 30px;
+}
+:hover.phone{
+    color: brown;
+}
+.card{
+    background-color: white;
+    width: 100px;
+    height: 190px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+:hover.card{
+    background-color: black;
+    transition: 0.5s;
+    border: 1px solid yellowgreen;
+}
+.iphone{
+    width: 60px;
+    margin-left: 18px;
+    margin-top: 20px;
+}
+.ip{
+    margin-top: 10px;
+    color: yellow;
+}
+.narx{
+    color: brown;
+}
+.card-box{
+    display: flex;
+    align-items: center;
+}
+.card-box2{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.laptops{
+    font-size: 20px;
+    margin-top: 30px;
+}
+.laptops:hover{
+    color: brown;
+}
+.cards{
+    background-color: white;
+    width: 100px;
+    height: 190px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.cards:hover{
+    background-color: black;
+    transition: 0.5s;
+    border: 1px solid yellowgreen;
+}
+.screen{
+    width: 80px;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.mc{
+    margin-left: 10px;
+    color: yellow;
+}
+.nar{
+    margin-left: 10px;
+    color: brown;
+}
+.card-boxes{
+    display: flex;
+    align-items: center;
+}
+.buy{
+    width: 70px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: white;
+    border: 3px solid yellow;
+}
+.box2{
+    display: flex;
+    align-items: center;
+}
+.mega-card{
+    margin-top: 20px;
+}
+.footer{
+    background-color: yellow;
+    width: 375px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
